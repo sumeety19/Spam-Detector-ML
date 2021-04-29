@@ -1,4 +1,4 @@
-![Image](url:"spamimg.jpg)
+![Image](spamimg.jpg)
 
 
 ### Which one does it catch whole* SPAM SMS?
