@@ -1,4 +1,4 @@
-![Image](https://appliedmachinelearning.files.wordpress.com/2017/01/spam-filter.png)
+![Image](url:"spamimg.jpg)
 
 
 ### Which one does it catch whole* SPAM SMS?
